@@ -1,4 +1,4 @@
-# hweekend
+# HWeekend
 Embedded code I wrote for a car that was controlled by Bluetooth via an Android app.
 
 This project took place over 30 hours one weekend for an event called HWeekend (Hardware Weekend) and was sponsored by Rockwell Collins. The goal was to think of and create a project that you could build within the allotted time in a group, and then demo it for the sponsors/other teams at the end. I came up with the idea to do a Bluetooth R/C car. Seven other students at the event joined me in my endeavor, and I thus led the project design as a whole. One of the students was a fifth year senior in industrial engineering and he led a mechanical team that built and designed the chassis.
