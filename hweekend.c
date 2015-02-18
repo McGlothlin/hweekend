@@ -1,5 +1,13 @@
-// hweekend.c
-// HWeekend Bluetooth R/C Car with code recycled from Microphone Security System project
+/*
+ * hweekend.c
+ * Author: Sean McGlothlin
+ * HWeekend Bluetooth R/C Car embedded code
+ *
+ * This code was written for a Teensy 2.0 microcontroller that receives a
+ * byte via Bluetooth as input, catches the signal, and then moves a direction
+ * depending on which bits are set. The commands are sent to motor controllers
+ * which then transferred the signal to each of the motors for the wheels.
+ */
 #include <avr/io.h>
 #include <util/delay.h>
 #include "helper.h"
